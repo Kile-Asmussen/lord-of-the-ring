@@ -3,7 +3,7 @@
 - Smallflame
   - Mankind's works
 - Giantsflame
-  - Fire Giant (Lord of Cinders)
+  - Fire Giant (The Fell God)
 - Serpentflame
   - Rykard (God Devouring Serpent)
 - Ghostflame
