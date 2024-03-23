@@ -1,18 +1,58 @@
 # Flames Anathema
 
+## Tool flames
+
+Designed to be used as weapons
+
 - Smallflame
-  - Mankind's works
+  Mankind's works
+
 - Giantsflame
-  - Fire Giant (The Fell God)
-- Serpentflame
-  - Rykard (God Devouring Serpent)
-- Ghostflame
-  - The four Death Rite Crows (Void)
-- Frenzyflame
-  - Three fingers (Chaos)
+  Fire Giant (The Fell God)
+
+- Taker's flame
+  Rykard (God Devouring Serpent)
+
 - Blackflame
-  - Godskin Cult (Unknowable Minuet)
+  Godskin Cult (Unknowable Minuet)
+
+## Mind Flames
+
+- Flame of Amition
+  Will
+  (Metaphorical, greater will)
+
+- Flame of Frenzy
+  Madness
+  Three fingers (Chaos)
+
 - Bloodflame
-  - Mogh (Formless Mother)
+  Love
+  Mogh (Formless Mother)
+
+## Ur flames
+
+- Crucible
+  Source of all Life
+
+- Comet Flame
+  Source of all Souls
+
+- Ghostflame
+  The Old Way of Death
+  Taken from the four Death Rite Crows
+
+## Rune Flames
+
 - Deathflame
-  - Maliketh (Greater Will)
+  Destined Death Rune
+  From Maliketh
+
+- Ashflame
+  Famine Rune
+  Burns invisibly
+
+- Hateflame
+  Pestilence Rune
+  White phosphorous
+  Inextinguishable
