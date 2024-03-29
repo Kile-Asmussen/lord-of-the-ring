@@ -1,11 +1,11 @@
 # Flames Anathema
 
-## Tool flames
-
-Designed to be used as weapons
-
 - Smallflame
   Mankind's works
+
+- Flame of Ambition
+  Will
+  (Metaphorical, greater will)
 
 - Giantsflame
   Fire Giant (The Fell God)
@@ -14,12 +14,10 @@ Designed to be used as weapons
   Rykard (God Devouring Serpent)
 
 - Deahtflame
-  Godskin Cult 
-## Mind Flames
-
-- Flame of Ambition
-  Will
-  (Metaphorical, greater will)
+  Godskin Cult
+  Gloam-Eyed Queen 
+  Power limited by sealing the Rune of Death
+  (Unknowable Minuet)
 
 - Flame of Frenzy
   Madness
@@ -29,24 +27,16 @@ Designed to be used as weapons
   Love
   Mogh (Formless Mother)
 
-## Ur flames
+- Ghostflame
+  The Old Way of Death (Twinbird)
 
 - Crucible
-  Source of all Life
+  Source of all Life (raw lifestuff)
 
 - Comet Flame
-  Source of all Souls
+  Source of all Souls (raw soulstuff)
 
-- Ghostflame
-  The Old Way of Death
-  Taken from the four Death Rite Crows
-  Twinbird?
-
-## Rune Flames
-
-- Deathflame
-  Sealed by the Destined Death Rune
-  From Maliketh
+# ??
 
 - Ashflame
   Famine Rune
