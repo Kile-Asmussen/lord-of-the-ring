@@ -13,12 +13,11 @@ Designed to be used as weapons
 - Taker's flame
   Rykard (God Devouring Serpent)
 
-- Blackflame
-  Godskin Cult (Unknowable Minuet)
-
+- Deahtflame
+  Godskin Cult 
 ## Mind Flames
 
-- Flame of Amition
+- Flame of Ambition
   Will
   (Metaphorical, greater will)
 
@@ -46,7 +45,7 @@ Designed to be used as weapons
 ## Rune Flames
 
 - Deathflame
-  Destined Death Rune
+  Sealed by the Destined Death Rune
   From Maliketh
 
 - Ashflame
