@@ -41,6 +41,7 @@ Designed to be used as weapons
 - Ghostflame
   The Old Way of Death
   Taken from the four Death Rite Crows
+  Twinbird?
 
 ## Rune Flames
 
