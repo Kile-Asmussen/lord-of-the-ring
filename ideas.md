@@ -34,7 +34,7 @@
 - Flame of Frenzy
   - Embodies Madness
   - Wielded by the Three fingers, Vyke
-  - Provided by Chaos
+  - Provided by Chaos (Yelough)
 
 - Bloodflame
   - Embodies Love
@@ -49,7 +49,7 @@
 # Natural flames
 
 - Crucible
-  Source of all Life
+  - Source of all Life
 
 - Comet Flame
-  Source of all Souls
+  - Source of all Souls
