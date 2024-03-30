@@ -1,48 +1,55 @@
 # Flames Anathema
 
 - Smallflame
-  Mankind's works
+  - Embodies invention
+  - Mankind's works
 
 - Flame of Ambition
-  Will
-  (Metaphorical, greater will)
+  - Embodies Will
+  - Is Metaphorical
+
+# Godflames
+
+- Holyflame
+  - Burns the unrepentant
+  - Provided by the Greater Will
 
 - Giantsflame
-  Fire Giant (The Fell God)
+  - Just really good at flame things
+  - Wielded by the Fire Giant
+  - Provided by the Fell God
 
 - Taker's flame
-  Rykard (God Devouring Serpent)
+  - Steals life
+  - Wielded by Rykard/God Devouring Serpent (Shadow of GEQ)
+  - Provided by ???
 
 - Deahtflame
-  Godskin Cult
-  Gloam-Eyed Queen 
-  Power limited by sealing the Rune of Death
-  (Unknowable Minuet)
+  - Kills gods
+  - Wielded by the Gloam-Eyed Queen, Blackknife assasins, and Maliketh
+  - Power limited by sealing the Rune of Death
+  - Weakened form wielded by the Godskin cultists
+  - Provided by ??? (The Unknowable Minuet?)
 
 - Flame of Frenzy
-  Madness
-  Three fingers (Chaos)
+  - Embodies Madness
+  - Wielded by the Three fingers, Vyke
+  - Provided by Chaos
 
 - Bloodflame
-  Love
-  Mogh (Formless Mother)
+  - Embodies Love
+  - Wielded by Mogh
+  - Provided by Formless Mother
 
 - Ghostflame
-  The Old Way of Death (Twinbird)
+  - The Old Way of Death
+  - Wielded by the Deathbird Vassals
+  - Provided by Twinbird
+
+# Natural flames
 
 - Crucible
-  Source of all Life (raw lifestuff)
+  Source of all Life
 
 - Comet Flame
-  Source of all Souls (raw soulstuff)
-
-# ??
-
-- Ashflame
-  Famine Rune
-  Burns invisibly
-
-- Hateflame
-  Pestilence Rune
-  White phosphorous
-  Inextinguishable
+  Source of all Souls
