@@ -1,22 +1,23 @@
 
 # Era of the Worldtree
 
-The Greater Will starts sending its messengers, the Twos Fingers to the Lands Between.
+In this era, the Greater Will started sending its messengers, the Pairs Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
 
 # Era of the Erdtree
 
-The Greater Will sends the Elden Beast to the Lands Between. It  plants the seed of the Erdtree, and the Erdtree subsumes the Worldtree. By that power, the Elden Beast establishes the Law of Causality and reshapes the old way of the Worldtree into the Law of Regression.
+The Greater Will sent the Elden Beast to the Lands Between. It planted the seed of the Erdtree, and the Erdtree subsumed the Worldtree. By that power, the Elden Beast established the Law of Causality and reshaped the old way of the Worldtree into the Law of Regression.
 
-Then the Elden Beast falls dormant, turning into the Elden Ring, which prescriptively encodes these laws of causality and regression, governing everything that happens in the Lands Between.
+Then the Elden Beast fell dormant, turning into the Elden Ring, which prescriptively encoded these laws of Causality and Regression, governing everything that happened in the Lands Between.
 
-The Elden Beast was created to travel the cosmos and create order, not to govern the order once created. The various Two Fingers therefore start appointing Empyreans, to take up the Elden Ring and govern the Lands Between, enforcing the Greater Will's wishes in the new world.
+The Elden Beast was created to travel the cosmos and create order, not to govern the order once created. The various Two Fingers therefore started appointing Empyreans, to take up the Elden Ring and govern the Lands Between, enforcing the Greater Will's wishes in the new world.
 
 ## The Age of Iron
 
-The Two Fingers select several Empyreans, who battle for the Elden Ring. Of them, two reach prominence:
+The Two Fingers selected several Empyreans, who battled for the Elden Ring. Of them, two reached prominence:
 
-- Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation.
-- Marika, the Fair-Haired Queen, leader of the Badlands Tribes, wielding ???
+Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation.
+
+Marika, the Fair-Haired Queen, leader of the Badlands Tribes, wielding ???
 
 In the end, Marika obtained the Elden Ring and established her rule as Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
 
@@ -26,11 +27,19 @@ She used this protection to wage one final persecution of the Godslayer cult, ca
 
 Marika, now completely unopposed, called the new state of the world the Golden Order.
 
+### Open Questions
+
+When are the Eternal Cities buried?
+
 ## The Age of Gold
 
 Marika wed Hoarah Loux, and to mirror her Shadow he took the spirit lion Sarosh on his back to control his bloodlust and became Godfrey the first Elden Lord.
 
-By his seed, Marika bore the Omen Twins and because it would be bad PR, threw them into the sewers under Leyndell. She then bore Godwyn and he grew up to be a true heir.
+By his seed, Marika bore the Omen Twins but was revolted that the Crucible had touched her own offspring. She kept their birth secret and sent them into the tunnels under Leyndell, and decreed that all Omen children be shunned.
+
+Morgott desired his mother's love despite it all and grew to understand her decision. He took it upon himself to earn it in any way he could, and remained her servant in the dark. Mogh spurned it and delved deeper underground, not to be seen again for a long time.
+
+Marika then bore Godwyn and he grew up to be a true heir.
 
 The Golden Order turned on the Giants who had mastery over fire that could unmake the Erdtree --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
 
@@ -48,9 +57,16 @@ Marika's powerbase of the warrior tribes would not do to lead this conquest --- 
 
 Marika mustered her domestic armies, the forces of Altus and Gelmir, the armies of the Golden order and the dragon cultists, and marched on Liurnia. Among this force was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one.
 
-In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible. Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace.
+In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible.
 
-Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy marriage.)
+Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy marriage.)
+
+
+### Open Questions
+
+When is Leyndell built?
+
+When is Farum Azula cast out of time?
 
 ## The Age of Silver
 
@@ -60,16 +76,49 @@ Godwyn married and sired an heir.
 
 Rennala bore Radagon three children, Rykard, Radahn, and Ranni.
 
-To Marika's horror, Ranni was chosen as an Empyrean and given as Shadow the beast child Blaidd. But the girl was young and not yet a threat.
+All three children were prodigies of sorcery and found powerful teachers. Radahn took after his father and became a General in the Golden Order, Ranni took after her mother and became the Princess of Caria. Rykard skirted blasphemy and revied the study of fire, founding the Fire Monks.
 
-All three children were prodigies of sorcery and found powerful teachers. Radahn took after his father and became a General in the Golden Order, Ranni took after her mother and became the Princess of Caria.
+To Marika's horror, Ranni was chosen as an Empyrean and given as Shadow the beast child Blaidd.
 
+But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians drived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring.
 
+Marika called Radagon back to Leyendel, and upon seeing his majesty, fell in love with him and seduced him. 
 
-# Open Questions
+Unbeknownst to everyone, they were but the masculine and feminine aspect of the same being. Radagon was a projection of Marika's self, a counterbalance created by Marika delving into the Law of Causality and neglecting the Law of Regression.
 
-When is Leyndell built?
+Radagon, wracked with guilt over his infidelity, divorced Rennala, and the peace with Liurnia was broken, but so was its Queen.
 
-When is Farum Azula cast out of time?
+Radagon married Marika, becoming the Second Elden Lord.
 
-When are the Eternal Cities buried?
+To honor her new husband, Marika raised his eldest son Rykard to Prince of Gelmir, where his mastery of fire suited well the volcanoes.
+
+Radahn also followed his father. He had grown all-surpassingly powerful, a rival to Godwyn in sheer strength. The two grew close as brothers, and Marika adopted him as her own son.
+
+Ranni remained. With her mother's heart broken, she took over de-facto rulership of Liurnia, but the Golden Order was by then so powerful that going to war would be suicide. She bore a grudge against her father and his new lover and refused Marika's overtures and offers.
+
+Marika now saw her opportunity to sabotage Ranni and commanded her adoptive son Radahn to use his mastery of Gravitational magic to halt the Firmament.
+
+This cemented Ranni's resentment of Marika into a sworn enmity. Even Godwyn's good will and genuine desire to befriend her did not sway he hatred.
+
+### Open Questions
+
+When does Rykard start doing blasphemies? Does Frenzy factor into it?
+
+## The Shattering
+
+Marika bore Radagon three children, but because of the incestuous nature of the union and Marika's numerous crimes and imbalances, these three children were born vulnerable by the caprices of fate and the balance of the Elden Ring.
+
+By the absence of the Rune of Famine, Miquella was cursed with eternal childhood, to never grow to be a proud king like his eldest brother.
+
+By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste away and spread horrific deformity wherever she went. (The Greater Will might have allowed this to happen.) 
+
+By the absence of the Rune of Death, Melina was the reincarnation of Marika's old enemy, the Gloam-Eyed Queen.
+
+Godwyn loved his three youngest siblings dearly anyway. He inspired and encouraged Miquella's endeavors to spread kindness.
+
+The return of Harita's soul re-awakened her Shadow, the God Devouring Serpent, under Mount Gelmir, and Rykard kept it secret and placated, studying its power.
+
+But also the Two Fingers now chose Miquella and Malenia to be Empyreans, and Marika now faced many threats to her power from within her own family.
+
+Thrice now, had the Greater Will's messengers chosen successors to her rule, and she began to doubt whether her actions had been in accordance with her master's wishes.
+
