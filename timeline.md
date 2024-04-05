@@ -33,34 +33,35 @@ When are the Eternal Cities buried?
 
 ## The Age of Gold
 
-Marika wed Hoarah Loux, and to mirror her Shadow he took the spirit lion Sarosh on his back to control his bloodlust and became Godfrey the first Elden Lord.
+Marika wed Hoarah Loux, and to mirror her Shadow he took the spirit lion Serosh on his back to control his bloodlust and became Godfrey the first Elden Lord.
 
 By his seed, Marika bore the Omen Twins but was revolted that the Crucible had touched her own offspring. She kept their birth secret and sent them into the tunnels under Leyndell, and decreed that all Omen children be shunned.
 
 Morgott desired his mother's love despite it all and grew to understand her decision. He took it upon himself to earn it in any way he could, and remained her servant in the dark. Mogh spurned it and delved deeper underground, not to be seen again for a long time.
 
-Marika then bore Godwyn and he grew up to be a true heir.
+Marika then bore Godwyn and he grew up to be a true heir. From him began the Golden Lineage, a dynasty that was to last a thousand years. He was as great a warrior as his father, and as wise and blessed as his mother.
 
-The Golden Order turned on the Giants who had mastery over fire that could unmake the Erdtree --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
+But he would also venture to the shunning grounds under the city to find his brother, and show him the love he had been denied. This was Godwyn's gift that set him apart from either of his parentage: his kindness.
 
-The Giants were eradicated to a man.
+With a dynasty now established, Marika turned her gaze outwards, looking for threats to The Golden Order. The Giants of the mountains to the north had mastery over fire that could unmake the Erdtree --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
+
+The Giants were eradicated to a man, but Godwyn spared the last of their kind. It was a hollow mercy and he knew it.
 
 The Golden Order was then attacked by the Dragons, who saw the removal of the Rune of Death and Famine as an upset of the Natural Order --- Marika removed the Pestilence rune to let her armies fight continuously without fear of camp disease.
 
-Godfrey slew Gransax, but Godwyn made peace with the dragons by sparing Placidusax, and creating the order of Dragon Cultists.
+Godfrey slew the king of dragons, Gransax, but Godwyn was determined to do better this time and made peace with the dragons by sparing prince Fortissax. In the ensuing years, by the teachings of Fortissax, he founded the orders of Dragon Cultists, bolstering The Golden Order's might tenfold.
 
-Having now eliminated existential threats, Marika turned her eyes on conquest. The lands of Altus were prosperous, but neighboring Liurnia grew wary of her threat.
+Having now eliminated existential threats, Marika turned her eyes on conquest. The lands of Altus were prosperous, but neighboring Liurnia grew wary of the threat posed by her rule.
 
-Marika's powerbase of the warrior tribes would not do to lead this conquest --- they had been instrumental in slaughtering the Giants, but it was her son who had made peace with the dragons and strengthened the Order tenfold. Therefore she exiled all the tribes from the Lands Between, including her own husband, divesting them of Grace.
+Marika mustered her armies: the forces of Altus and Gelmir, the war priests of the Golden order and the dragon cultists, and Godfrey's war band, and marched on Liurnia.
 
-(Godwyn was, shall we say, slightly miffed that his beloved father was sent away.)
+Here they were repelled again and again by the brilliance of Liurnia's strategoi, the Carian orders of spellknights, supremely well-organized armies backed by sorcerers
 
-Marika mustered her domestic armies, the forces of Altus and Gelmir, the armies of the Golden order and the dragon cultists, and marched on Liurnia. Among this force was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one.
+Among Marika's forces was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one.
 
 In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible.
 
 Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy marriage.)
-
 
 ### Open Questions
 
@@ -70,19 +71,27 @@ When is Farum Azula cast out of time?
 
 ## The Age of Silver
 
-With Liurnia a part of the Golden Order, Marika devoted herself to theological matters, and let Godwyn take over rulership.
+With Liurnia a part of the Golden Order, there now came a period of lasting peace.
 
-Godwyn married and sired an heir.
+Absent a war, Godfrey grew restless, so Marika sent him onwards south of Liurnia to conquer the lands there, drawing all of the Lands Between together under the Golden Order.
 
-Rennala bore Radagon three children, Rykard, Radahn, and Ranni.
+She let Godwyn take over rulership. He took a concubine and sired an heir, remaining unwed at his mother's wish, should one day a political marriage be needed. 
 
-All three children were prodigies of sorcery and found powerful teachers. Radahn took after his father and became a General in the Golden Order, Ranni took after her mother and became the Princess of Caria. Rykard skirted blasphemy and revied the study of fire, founding the Fire Monks.
+In Liurnia, Rennala bore Radagon three children: Rykard, Radahn, and Ranni.
 
-To Marika's horror, Ranni was chosen as an Empyrean and given as Shadow the beast child Blaidd.
+All three Carian children were prodigies of sorcery and found powerful teachers. Radahn took after his father and became a General in the Golden Order, Ranni took after her mother and became the Princess of Caria. Rykard skirted blasphemy and revived the study of fire, founding the Fire Monks.
 
-But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians drived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring.
+To Marika's horror, Ranni had been chosen as an Empyrean and given as Shadow the beast child Blaidd.
 
-Marika called Radagon back to Leyendel, and upon seeing his majesty, fell in love with him and seduced him. 
+But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians derived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring.
+
+Before she could formulate a plan to do so, her husband returned. Godfrey was drunk on victory, and eager to take back his rightful place as Elden Lord. His warriors brought with them an unrest to the heartland that Marika found particularly displeasing: these myriad warriors were nothing but. There was no world in which they would return to Altus and find wives and husbands, settling down to till the good earth.
+
+She lay with him one last night, and in the morning told him that he would not be taking the throne back from his son's stewardship and banished his clan and all the other tribes from the Lands Between. She tore the grace of the Erdtree from their souls, and sent them into the fog beyond the mountains and out to sea, to wander and never find there a home, and one day when the Golden Order needed them, be called back by the guidance of honeyed rays of gold.
+
+Godwyn was dismayed to have his dear father so banished. He would never truly forgive her, but never would his love for his mother wane, either.
+
+To now enact her plot to render her power and status as Empyrean unopposed, Marika called Radagon back to Leyndell, planning to negotiate with him regarding a possible  and upon seeing his majesty, fell in love with him and seduced him.
 
 Unbeknownst to everyone, they were but the masculine and feminine aspect of the same being. Radagon was a projection of Marika's self, a counterbalance created by Marika delving into the Law of Causality and neglecting the Law of Regression.
 
