@@ -1,11 +1,11 @@
 
-# Era of the Worldtree
+# Era of the Greattree
 
-In this era, the Greater Will started sending its messengers, the Pairs Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
+In this era, the Greater Will started sending its messengers, the Two Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
 
 # Era of the Erdtree
 
-The Greater Will sent the Elden Beast to the Lands Between. It planted the seed of the Erdtree, and the Erdtree subsumed the Worldtree. By that power, the Elden Beast established the Law of Causality and reshaped the old way of the Worldtree into the Law of Regression.
+The Greater Will sent the Elden Beast to the Lands Between. It planted the seed of the Erdtree, and the Erdtree subsumed the Greattree. By that power, the Elden Beast established the Law of Causality and reshaped the old way of the Greattree into the Law of Regression.
 
 Then the Elden Beast fell dormant, turning into the Elden Ring, which prescriptively encoded these laws of Causality and Regression, governing everything that happened in the Lands Between.
 
@@ -98,7 +98,9 @@ Ranni remained. With her mother's heart broken, she took over de-facto rulership
 
 Marika now saw her opportunity to sabotage Ranni and commanded her adoptive son Radahn to use his mastery of Gravitational magic to halt the Firmament.
 
-This cemented Ranni's resentment of Marika into a sworn enmity. Even Godwyn's good will and genuine desire to befriend her did not sway he hatred.
+This cemented Ranni's resentment of Marika into a sworn enmity. Even Godwyn's good will and genuine desire to befriend her did not sway he hatred. A hatred which came to include not only her father, Queen Marika, and her brothers, but also the Two Fingers, and the Greater Will they served.
+
+The only part of her family she still loved was her mother dearest, her Shadow, and her fathers pet red wolf.
 
 ## The Age of Copper
 
@@ -108,20 +110,54 @@ By the absence of the Rune of Famine, Miquella was cursed with eternal childhood
 
 By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste away and spread horrific deformity wherever she went. (The Greater Will might have allowed this to happen.)
 
-Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did not, and took it upon himself to hold his new family together best as he could, seeing to his children's needs and disabilities, and gifting Marika another child to bear.
+Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did not, and took it upon himself to hold his new family together best as he could, seeing to his children's needs and disabilities, and gifting Marika another child to bear. He ceded the title of Elden Lord to his stepson to this end.
 
-Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness. The Two Fingers chose Miquella and Malenia to be Empyreans, and Marika grew concerned.
+Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness. 
 
-The third child she bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of Marika's old enemy, the Gloam-Eyed Queen. 
+The Two Fingers chose Miquella and Malenia to be Empyreans --- though whom was the Shadow of whom was unclear.
 
-Marika now faced three threats to her power from within her own family. Marika grew fearful and kept the girl's existence and nature fiercely secret.
+The third child she bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of her old enemy, the Gloam-Eyed Queen.
 
-Thrice now, had the Greater Will's messengers chosen successors to her rule, and she doubted whether her actions had been in accordance with her master's wishes.
+Marika now faced three threats to her power from within her own family. Marika grew fearful and kept the girl's existence and nature fiercely secret. (The return of Harita's soul re-awakened her Shadow, the God Devouring Serpent, under the Gelmir mountains, and Rykard kept it secret and placated, studying its power.)
 
-The return of Harita's soul re-awakened her Shadow, the God Devouring Serpent, under the Gelmir mountains, and Rykard kept it secret and placated, studying its power.
+Meanwhile Miquella rose to prominence and power through his kind nature inspiring the same loyalty in his followers as had Godwyn's honor. The boy sought out the most disenfranchised peoples in all the Lands Between, showing mercy upon them. The Omen touched by the crucible, the Misbegotten whose bloodlines were of it, the hillfolk, the albinauric lineages created with sorcery, it was rumored he even loved the Nox banished underground.
 
-Marika hatched a plan. In secret, she gave her youngest daughter the purpose of helping the Tarnished return to the Erdtree and among them rise the Third Elden Lord. Then she burned Melina alive, leaving her bodiless as a wandering spirit.
+His sister, Malenia, he helped still the Rot inside her by inventing Unalloyed Gold, a metal form of his grace and mercy, which could ward off influence from without. Malenia took up the sword in her brother's defense and became the most formidable swordsmistress in the world.
+
+Then Miquella took a sapling of the Erdtree and planted his own tree, the Haligtree. He watered it with his own blood and it grew almost as great as the Erdtree. It was beyond belief.
+
+Twice now, had the Greater Will's messengers chosen successors to her rule. First Ranni, then Miquella. She doubted whether her actions had been in accordance with her master's wishes. Marika grew fearful.
+
+She hatched a plan. In secret, she gave her youngest daughter the purpose of helping the Tarnished return to the Erdtree and among them rise an Elden Lord as great as Godfrey. Then she burned Melina alive, leaving her bodiless as a only a soul, a wandering spirit of ash bound to the grace of the Erdtree.
 
 This agitated the God Devouring Serpent and with it the volcanoes of Gelmir.
 
-Ranni now made her machinations known. While Marika was thus distracted with her house being in disarray, she stole a fragment of the Rune of Death from Maliketh. She had recruited Marika's own countrymen, the Black Knife Assasins.
+## The Night of Black Knives
+
+Ranni now made her machinations known. While Marika was thus distracted with her house being in disarray, the Lunar Princess stole a fragment of the Rune of Death from Maliketh.
+
+She had recruited Marika's own countrymen, Numen warriors into a guild of assassins, and armed them with this fragment of destined death in the form of a black knives, the most powerful of which went to their leader Alecto. The Black Knife Assasins they would come to be known as.
+
+In one terrible night, they infiltrated Leyndell and the house of Godwyn, and put him to the blade.
+
+But Ranni was clever in the ways of the Primeval Current and the Moon, and mastered soul magic. She had split destined death among the black blades so the assassins held only the half that destroys the soul. She kept the blade that kills the body.
+
+While Godwyn's flesh had the cursemark of death carved into him, and his soul was forever lost, Ranni carved the counterpart into her own flesh to rid her being of the influence of the Greater Will which she so resented. Her soul found refuge in a doll she had crafted in the image of her recently diseased teacher in the arts of sorcery. Her reasons to do so are mysterious to this day --- perhaps sentiment, perhaps Ranni and her teacher were lovers.
+
+During the escape from Leyndell, the Black Knife Assasins took many losses, in particular the daughter of the leader, Tische, sacrificed herself to save her mother.
+
+The title of Elden Lord returned to Radagon.
+
+## The Shattering
+
+The loss of her most-treasured son plunged Marika into despair.
+
+She knew then that her interpretation of the Greater Will had been lacking, and that the Golden Order was anathema --- whether she was right in this judgment is debated to this day.
+
+Marika also knew that what she did next would cause the world to fall into disarray, so her penultimate act of aberrance was to pluck the Rune of War from the Elden Ring, and secrete it away somewhere safe.
+
+Then she took up her hammer and shattered the Elden Ring entire.
+
+Radagon grew fiercely angry with her. With her claim to Queendom now broken, by his authority as Elden Lord, he banished her from the Erdtree, and labored tirelessly to repair the Elden Ring --- to no avail. The Great Runes had been scattered across the land, and without their structure there was nothing to hold together the small runes.
+
+
