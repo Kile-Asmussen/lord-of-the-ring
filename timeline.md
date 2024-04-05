@@ -47,25 +47,23 @@ With a dynasty now established, Marika turned her gaze outwards, looking for thr
 
 The Giants were eradicated to a man, but Godwyn spared the last of their kind. It was a hollow mercy and he knew it.
 
-The Golden Order was then attacked by the Dragons, who saw the removal of the Rune of Death and Famine as an upset of the Natural Order --- Marika removed the Pestilence rune to let her armies fight continuously without fear of camp disease.
+The Golden Order was then attacked by the Dragons, who saw the removal of the Runes of Death and Famine as an upset of the Natural Order --- Marika removed the Pestilence rune to let her armies fight continuously without fear of camp disease or festering wounds.
 
 Godfrey slew the king of dragons, Gransax, but Godwyn was determined to do better this time and made peace with the dragons by sparing prince Fortissax. In the ensuing years, by the teachings of Fortissax, he founded the orders of Dragon Cultists, bolstering The Golden Order's might tenfold.
 
 Having now eliminated existential threats, Marika turned her eyes on conquest. The lands of Altus were prosperous, but neighboring Liurnia grew wary of the threat posed by her rule.
 
-Marika mustered her armies: the forces of Altus and Gelmir, the war priests of the Golden order and the dragon cultists, and Godfrey's war band, and marched on Liurnia.
+Marika mustered her armies: the forces of Altus and Gelmir, the war priests of the Golden order and the Dragon Cultists, and Godfrey's war band, and marched on Liurnia.
 
-Here they were repelled again and again by the brilliance of Liurnia's strategoi, the Carian orders of spellknights, supremely well-organized armies backed by sorcerers
+Here they were repelled again and again by the brilliance of Liurnia's strategoi, the Carian orders of spellknights, and supremely well-organized armies backed by sorcerers.
 
 Among Marika's forces was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one.
 
 In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible.
 
-Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy marriage.)
+Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy union.)
 
 ### Open Questions
-
-When is Leyndell built?
 
 When is Farum Azula cast out of time?
 
@@ -83,7 +81,7 @@ All three Carian children were prodigies of sorcery and found powerful teachers.
 
 To Marika's horror, Ranni had been chosen as an Empyrean and given as Shadow the beast child Blaidd.
 
-But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians derived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring.
+But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians derived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring. <!-- TODO -->
 
 Before she could formulate a plan to do so, her husband returned. Godfrey was drunk on victory, and eager to take back his rightful place as Elden Lord. His warriors brought with them an unrest to the heartland that Marika found particularly displeasing: these myriad warriors were nothing but. There was no world in which they would return to Altus and find wives and husbands, settling down to till the good earth.
 
@@ -91,7 +89,7 @@ She lay with him one last night, and in the morning told him that he would not b
 
 Godwyn was dismayed to have his dear father so banished. He would never truly forgive her, but never would his love for his mother wane, either.
 
-To now enact her plot to render her power and status as Empyrean unopposed, Marika called Radagon back to Leyndell, planning to negotiate with him regarding a possible marriage between his daughter and her son. 
+To now enact her plot to render her power and status as Empyrean unopposed, Marika called Radagon back to Leyndell, planning to negotiate with him regarding a possible marriage between his daughter and her son.
 
 But upon seeing his majesty, she herself fell in love with him and seduced him.
 
@@ -125,19 +123,19 @@ Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did
 
 Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness. 
 
-The Two Fingers chose Miquella and Malenia to be Empyreans --- though whom was the Shadow of whom was unclear.
+The Two Fingers chose Miquella and Malenia to be Empyreans --- though who was the Shadow of whom was unclear.
 
-The third child she bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of her old enemy, the Gloam-Eyed Queen.
+The third child Marika bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of her old enemy, the Gloam-Eyed Queen.
 
-Marika now faced three threats to her power from within her own family. Marika grew fearful and kept the girl's existence and nature fiercely secret. The return of Harita's soul re-awakened her Shadow, Eiglay, the God Devouring Serpent, under the Gelmir mountains. Rykard kept it secret and placated, studying its power.
+Marika now faced three threats to her power from within her own family. She grew fearful and kept the girl's existence and nature fiercely secret. The return of Harita's soul re-awakened her Shadow, Eiglay, the God Devouring Serpent, under the Gelmir mountains. Rykard kept it secret and placated, studying its power.
 
-Meanwhile Miquella rose to prominence and power through his selfless and kind nature inspiring the same loyalty in his followers as had Godwyn's honor. The boy sought out the most disenfranchised peoples in all the Lands Between, showing mercy upon them and seeing to their wounds and needs. The Omen touched by the crucible, the Misbegotten whose bloodlines were of it, the hillfolk, the albinauric lineages created with sorcery, it was rumored he even loved the Nox banished underground.
+Meanwhile Miquella rose to prominence and power through his selfless and kind nature, inspiring the same fanatic loyalty in his followers as had Godwyn's honor. The boy sought out the most disenfranchised peoples in all the Lands Between, showing mercy upon them and seeing to their wounds and needs. The Omen touched by the crucible, the Misbegotten whose bloodlines were of it, the hillfolk, the albinauric lineages created with sorcery, it was rumored he even loved the Nox banished underground.
 
 His sister, Malenia, he helped still the Rot inside her by inventing Unalloyed Gold, a metal form of his grace and mercy, which could ward off influence from without. Malenia took up the sword in her brother's defense and became the most formidable swordsmistress in the world.
 
 Then Miquella took a sapling of the Erdtree and planted his own tree, the Haligtree. He watered it with his own blood and it grew almost as great as the Erdtree. It was beyond belief.
 
-Twice now, had the Greater Will's messengers chosen successors to her rule. First Ranni, then Miquella. While she had thwarted Ranni's rise to power, she saw herself powerless to move against her second golden son. She began harboring doubts as to whether her actions had been in accordance with her master's wishes.
+Twice now, had the Greater Will's messengers chosen successors to Marika rule. First Ranni, then Miquella. While she had thwarted Ranni's rise to power, she saw herself powerless to move against her second golden son. She began harboring doubts as to whether her actions had been in accordance with her master's wishes.
 
 Marika grew fearful.
 
@@ -149,7 +147,7 @@ This agitated the God Devouring Serpent and with it the volcanoes of Gelmir. Ryk
 
 Ranni now made her machinations known. While Marika was thus distracted with her house being in disarray, the Lunar Princess stole a fragment of the Rune of Death from Maliketh.
 
-She had recruited Marika's own countrymen, Numen warriors into a guild of assassins, and armed them with this fragment of destined death in the form of a black knives, the most powerful of which went to their leader Alecto. The Black Knife Assasins they would come to be known as.
+She had recruited Marika's own countrymen, Numen warriors, into a guild of assassins, and armed them with this fragment of destined death in the form of a black knives, the most powerful of which went to their leader Alecto. The Black Knife Assasins they would come to be known as.
 
 In one terrible night, they infiltrated Leyndell and the house of Godwyn. It was Praetor Rykard who let them in the door, and stood guard, should Maliketh return. Godwyn was put to the blade, becoming the first of the demigods to die.
 
