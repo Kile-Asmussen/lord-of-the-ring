@@ -51,7 +51,7 @@ Godfrey slew Gransax, but Godwyn made peace with the dragons by sparing Placidus
 
 Having now eliminated existential threats, Marika turned her eyes on conquest. The lands of Altus were prosperous, but neighboring Liurnia grew wary of her threat.
 
-Marika's powerbase of the warrior tribes would not do to lead this conquest --- they had been instrumental in slaughtering the Giants, but it was her son who had made peace with the dragons and strengthened the Order tenfold. Therefore she exiled all the tribes from the Lands Between, including her own husband.
+Marika's powerbase of the warrior tribes would not do to lead this conquest --- they had been instrumental in slaughtering the Giants, but it was her son who had made peace with the dragons and strengthened the Order tenfold. Therefore she exiled all the tribes from the Lands Between, including her own husband, divesting them of Grace.
 
 (Godwyn was, shall we say, slightly miffed that his beloved father was sent away.)
 
@@ -100,25 +100,28 @@ Marika now saw her opportunity to sabotage Ranni and commanded her adoptive son 
 
 This cemented Ranni's resentment of Marika into a sworn enmity. Even Godwyn's good will and genuine desire to befriend her did not sway he hatred.
 
-### Open Questions
+## The Age of Copper
 
-When does Rykard start doing blasphemies? Does Frenzy factor into it?
-
-## The Shattering
-
-Marika bore Radagon three children, but because of the incestuous nature of the union and Marika's numerous crimes and imbalances, these three children were born vulnerable by the caprices of fate and the balance of the Elden Ring.
+Marika bore Radagon twins, but because of the incestuous nature of the union and Marika's numerous crimes and imbalances, their children were born vulnerable by the caprices of fate and the balance of the Elden Ring.
 
 By the absence of the Rune of Famine, Miquella was cursed with eternal childhood, to never grow to be a proud king like his eldest brother.
 
-By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste away and spread horrific deformity wherever she went. (The Greater Will might have allowed this to happen.) 
+By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste away and spread horrific deformity wherever she went. (The Greater Will might have allowed this to happen.)
 
-By the absence of the Rune of Death, Melina was the reincarnation of Marika's old enemy, the Gloam-Eyed Queen.
+Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did not, and took it upon himself to hold his new family together best as he could, seeing to his children's needs and disabilities, and gifting Marika another child to bear.
 
-Godwyn loved his three youngest siblings dearly anyway. He inspired and encouraged Miquella's endeavors to spread kindness.
+Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness. The Two Fingers chose Miquella and Malenia to be Empyreans, and Marika grew concerned.
 
-The return of Harita's soul re-awakened her Shadow, the God Devouring Serpent, under Mount Gelmir, and Rykard kept it secret and placated, studying its power.
+The third child she bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of Marika's old enemy, the Gloam-Eyed Queen. 
 
-But also the Two Fingers now chose Miquella and Malenia to be Empyreans, and Marika now faced many threats to her power from within her own family.
+Marika now faced three threats to her power from within her own family. Marika grew fearful and kept the girl's existence and nature fiercely secret.
 
-Thrice now, had the Greater Will's messengers chosen successors to her rule, and she began to doubt whether her actions had been in accordance with her master's wishes.
+Thrice now, had the Greater Will's messengers chosen successors to her rule, and she doubted whether her actions had been in accordance with her master's wishes.
 
+The return of Harita's soul re-awakened her Shadow, the God Devouring Serpent, under the Gelmir mountains, and Rykard kept it secret and placated, studying its power.
+
+Marika hatched a plan. In secret, she gave her youngest daughter the purpose of helping the Tarnished return to the Erdtree and among them rise the Third Elden Lord. Then she burned Melina alive, leaving her bodiless as a wandering spirit.
+
+This agitated the God Devouring Serpent and with it the volcanoes of Gelmir.
+
+Ranni now made her machinations known. While Marika was thus distracted with her house being in disarray, she stole a fragment of the Rune of Death from Maliketh. She had recruited Marika's own countrymen, the Black Knife Assasins.
