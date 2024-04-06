@@ -176,3 +176,6 @@ But no amount of soldiers and mortal lawmen can keep a God truly away. Marika re
 Facing Radagon, her husband and other half, her doubts, her mortality, her counterpart in every way, she hesitated. And for that, Radagon plunged his crimson spear through her breast. In return she reunited with him, the two becoming a single being, once more.
 
 And she bode the Erdtree to swallow her.
+
+## The Shattering War
+
