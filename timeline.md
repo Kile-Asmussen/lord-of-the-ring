@@ -17,7 +17,7 @@ The Two Fingers selected several Empyreans, who battled for the Elden Ring. Of t
 
 Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation.
 
-Marika, the Fair-Haired Queen, leader of the Badlands Tribes, wielding ???
+Marika, the Fair-Haired Queen, leader of the Badlands Tribes, wielding TK
 
 In the end, Marika obtained the Elden Ring and established her rule as Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
 
@@ -147,7 +147,7 @@ This agitated the God Devouring Serpent and with it the volcanoes of Gelmir. Ryk
 
 Ranni now made her machinations known. While Marika was thus distracted with her house being in disarray, the Lunar Princess stole a fragment of the Rune of Death from Maliketh.
 
-She had recruited Marika's own countrymen, Numen warriors, into a guild of assassins, and armed them with this fragment of destined death in the form of a black knives, the most powerful of which went to their leader Alecto. The Black Knife Assasins they would come to be known as.
+She had recruited Marika's own countrymen, Numen warriors, into a guild of assassins, and armed them with this fragment of destined death in the form of black knives, the most powerful of which went to their leader Alecto. The Black Knife Assasins they would come to be known as.
 
 In one terrible night, they infiltrated Leyndell and the house of Godwyn. It was Praetor Rykard who let them in the door, and stood guard, should Maliketh return. Godwyn was put to the blade, becoming the first of the demigods to die.
 
