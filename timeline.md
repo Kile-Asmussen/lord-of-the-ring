@@ -1,7 +1,22 @@
+# Time Immemorial
+
+
 
 # Era of the Greattree
 
-In this era, the Greater Will started sending its messengers, the Two Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
+The Crucible, the source of all life, begot a world tree, the Greattree.
+
+This was a time where Dragons and Giants ruled supreme the Lands Between.
+
+The Dragons were wise, immortal beings, protected by their impervious Gravelstone scales, ruled by Lord Placidusax, who governed the southern Lands Between from his home in Farum Azula in the Caelid Wilds. Farum Azula was a haven to the Dragons and home to their beastman servants, and had towers stretching high into the sky.
+
+The Giants were clever, hardy beings, protected by their Fell God, wielding the Flame of Ruin. They were ruled by a line of priests from the very highest mountains in the north of the Lands Between. The mountains was a haven to the giants and home to their servants, the tribes of Zamor, and had great fortifications spanning valleys and peaks.
+
+Knowing each other's might, the Dragons and Giants were at relative peace, with belligerence settled in duels and show battles, rather than the all-out wars both peoples knew would be utterly destructive.
+
+In the midlands, there were tribes and nobles who swore allegiance to one or the other, but of note in the lands of Liurnia arose a people who mastered astrology and the magic of the cosmos. By this power they were able to repel Giant and Dragon both, and were left to their own devices. They formed the Carian dynasty that persists to this day. 
+
+In this era also, the Greater Will started sending its messengers, the Two Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
 
 # Era of the Erdtree
 
