@@ -1,6 +1,6 @@
 # Time Immemorial
 
-
+In the center of the world was the Lands Between, consisting of the lands of forested Limgrave, lakefair Liurnia, wilder Caelid, and 
 
 # Era of the Greattree
 
@@ -32,7 +32,7 @@ The Two Fingers selected several Empyreans, who battled for the Elden Ring. Of t
 
 Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation.
 
-Marika, the Fair-Haired Queen, leader of the Badlands Tribes, wielding TK
+Marika, the Fair-Haired Queen, uniter of the Badlands Tribes, wielding stone and storm.
 
 In the end, Marika obtained the Elden Ring and established her rule as Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
 
@@ -44,7 +44,7 @@ Marika, now completely unopposed, called the new state of the world the Golden O
 
 ### Open Questions
 
-When are the Eternal Cities buried?
+- When are the Eternal Cities buried?
 
 ## The Age of Gold
 
@@ -80,7 +80,7 @@ Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sue
 
 ### Open Questions
 
-When is Farum Azula cast out of time?
+- When is Farum Azula cast out of time?
 
 ## The Age of Silver
 
