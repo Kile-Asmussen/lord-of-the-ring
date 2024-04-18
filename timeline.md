@@ -1,6 +1,6 @@
 # Time Immemorial
 
-In the center of the world was the Lands Between, consisting of the lands of forested Limgrave, lakefair Liurnia, wilder Caelid, and 
+In the center of the world was the Lands Between, consisting of the lands of forested Limgrave, lakefair Liurnia, wilder Caelid, high Altus, fiery Gelmir, 
 
 # Era of the Greattree
 
