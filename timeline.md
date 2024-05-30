@@ -102,7 +102,7 @@ This cemented Ranni's resentment of Marika into a sworn enmity. Even Godwyn's go
 
 The only part of her family she still loved was her mother dearest, her Shadow, and her fathers pet red wolf.
 
-## The Age of Copper
+## The Age of Pewter
 
 Marika bore Radagon twins, but because of the incestuous nature of the union and Marika's numerous crimes and imbalances, their children were born vulnerable by the caprices of fate and the balance of the Elden Ring.
 
