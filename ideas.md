@@ -53,3 +53,22 @@
 
 - Comet Flame
   - Source of all Souls
+
+# Crucible Knights
+
+Pelam (Tree Spear)
+Cretax (Fencer)
+Jarus 
+Triasse (Fencer)
+Pemris (Theurge)
+Carbo
+Devon (Sword & Shield)
+Siluria (Tree Spear)
+Ordovis (Sword & Shield)
+Camri (Archer)
+Ediacar (Theurge)
+Cyros
+Tonia (Archer)
+Stenis
+Ectas
+Calym
