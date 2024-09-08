@@ -61,14 +61,15 @@ Cretax (Fencer)
 Jarus 
 Triasse (Fencer)
 Pemris (Theurge)
-Carbo
-Devon (Sword & Shield)
+Carbo (Sword & Shield)
+Devonia (Sword & Shield)
 Siluria (Tree Spear)
-Ordovis (Sword & Shield)
+Ordovis (Hammer)
 Camri (Archer)
 Ediacar (Theurge)
-Cyros
+Cyros (Hammer)
 Tonia (Archer)
 Stenis
 Ectas
 Calym
+Titania Eogen
