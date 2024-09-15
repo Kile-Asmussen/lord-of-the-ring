@@ -73,3 +73,12 @@ Stenis
 Ectas
 Calym
 Titania Eogen
+
+# Carian sextuplets
+
+Rennala - Queen of Caria
+Rellana - Duchess Knight of Caria
+Lennara - Monster of Caria
+Lerrana - Stewardess of Caria
+Nellara - Oracle of Caria
+Nerrala - Disgraced Loserbaby of Caria
