@@ -82,3 +82,31 @@ Lennara - Monster of Caria
 Lerrana - Stewardess of Caria
 Nellara - Oracle of Caria
 Nerrala - Disgraced Loserbaby of Caria
+
+# Great Runes
+
+## Makira's Spawn
+
+- Radahn: Vigor  
+  Grants the bearer unsurpassed vitality and strength
+- Morgott: Royalty  
+  Grants the bearer unbreakable will to victory
+- Mogh: Treachery  
+  Grants the bearer the power to whispers disunity and hear all dissent
+- Rykard: Sacrifice  
+  The bearer grows ever so slightly in might with each life taken by their hand
+- Malenia: Retaliation  
+  The bearer's injuries heal as they inflict violence on others
+- Miquella: Unity  
+  Others shall obey the bearer's will
+- Godrick: Convergence  
+  The bearer shall know luck and health and live highly blessed
+- Ranni: Rebirth  
+  The bearer shall gain mastery over life and death
+
+## Others
+
+- Gideon: Mimicry  
+  The bearer shall know any technique at a single glance
+- Bernahl: Beasts  
+  Grants the bearer bestial acumen and instinct all-surpassing 

@@ -40,7 +40,7 @@ The Two Fingers did care not for heritage nor standing in selecting their quarri
 
 Among them was Marika, the Fair-Haired Queen. She held no special power but acumen and cleverness, though it is rumored she courted darker powers and outer gods when convenient, and always was she seen in the company of her firstborn son and her Shadow, the Azulan wolfman Maliketh. She united of the barbarian tribes by strength, beauty, and charisma, forming a fine fighting force. But she knew it would not be sufficient to obtain victory.
 
-She courted then the king of the Belurati, who in turn taught her war band the power over earth and wind. As thanks she slew him in his sleep. In a night of terrible slaughter the city of Belurat was razed and its peoples driven from the land. By Marika's ruthless stratagems, the terrible cruelty of her firstborn, and the fury of her Shadow, she now held a fighting force with scarcely any 
+She courted then the king of the Belurati, and wed him with her army as dowry. The king, as a wedding gift, in turn taught her warriors the power over earth and wind. As thanks she slew him in his sleep on their wedding night. In an eve of terrible slaughter the city of Belurat was razed and its peoples driven from the land. By Marika's ruthless stratagems, the terrible cruelty of her firstborn, and the fury of her Shadow, she now held a fighting force with scarcely any equal.
 
 Now at the head of an army wielding terrible power, Marika set her eyes on the only other Empyrean who stood to oppose her.
 
@@ -208,7 +208,7 @@ Facing Radagon, her husband and other half, her doubts, her mortality, her count
 
 And she bode the Erdtree to swallow her.
 
-## The Shattering
+## The Shattering War
 
 The Great Runes fell upon the lands between, and despite Marika's precaution of hiding away the Rune of War, the land descended into caos as had never been seen since the Empyreans vyed for the Elden Ring in ages past.
 
@@ -216,14 +216,26 @@ None was spared the risk of coming upon a shard of the Ring and dooming themselv
 
 Those already strong in the ways of battle fared better. It was soon that all of Marika's line had each obtained for themselves a great rune, oft taking from the less fortunate and paying with steel.
 
-Radahn gathered his Redmane knights in Caelid and began his march upon the battlefield. He met Godefroy in the field and the King of Limgrave was slain along with three of his four sons. The craven Godrick escaped with his father's bounty and laid siege to Stormveil for a season. When the city proved unassailable, Radahn marched onwards into Liurnia.
+General Radahn the Red obtained for himself a Greatrune of Vigor, endowing him with even greater strength, will, and stamina, raising him ever closer to divine mastery of battle. Thus empowered he intended to crown himself the next Elden Lord.
+
+He gathered his Redmane knights in Caelid and began his march upon the battlefield. He met Godefroy in the field and the King of Limgrave was slain along with three of his four sons. The craven Godrick escaped with his father's bounty and laid siege to Stormveil for a season. When the city proved unassailable, Radahn marched onwards into Liurnia.
 
 He brokered a peace with his sister to gain passage through his homeland, though the pass of Dectus to finally enter Altus. Here he swept aside Rykard's token resistance forces and advanced directly to the heart of the Golden Order, the royal city of Leyndell.
 
 Here the Redmanes met their match in the Leyndell forces, and as Radahn rode into battle wielding his greatbow to take down the Leyndell captainry and lead his men to victory against a disorganized enemy, he was struck down by his eldest living brother, Morgott.
 
-Dressed not in armor but in rags, and wielding naught but a cane of iron wood and a blades of holy light.
+Dressed not in armor but in rags, and wielding naught but a cane of iron wood and a blades of holy light, Morgott held the Greatrune of Royalty, granting him unsurpassed tenacity and the iron will to victory. Radahn lost his mettle and thus disgraced, called a full retreat, losing many men to Leyndell's cavalry.
 
+The long march home he gave to ruminating on his status as the greatest warrior and general since Godwyn. He retreated back to his fortresses in Caelid to bolster his men and recruit anew from the hardy folk of the wild, and among the sorcerers of Selia, the sister-city of Luke. He licked his wounds and refined his skill. But his anger at his brother was not hot rage, it was humility.
 
+Certain was he that the shunning grounds under Leyndell must be a hellish place, to produce such a formidable warrior who bore no armor nor even a blade.
 
+It made Radahn think to the future, and he took a harem of concubines to sire a line of heirs, should he truly meet his end in battle.
 
+## The Fall of Caelid
+
+Miquella saw the fright wrought by his siblings and all the greed in the land. Malenia secured herself and he each a great rune of formidable power, but he knew it would never be sufficient to put an end to the slaughter and horrors.
+
+Among the gentle Haligtree's roots he fashioned himself a cocoon of ironwood, a liminal womb of his own mother-tree's making in which he could finally undergo the metamorphosis from child to adult. His curse was a vile one, viler even than his sister's: he felt it his burden to rule gently, yet none would listen to a child king speaking a voice of authority and reason.
+
+Where Malenia's Greatrune of Predation
