@@ -1,6 +1,6 @@
 # Time Immemorial
 
-In the center of the world was the Lands Between, consisting of the lands of forested Limgrave, lakefair Liurnia, wilder Caelid, high Altus, fiery Gelmir, 
+In the center of the world was the Lands Between, consisting of the lands of forested Limgrave, lakefair Liurnia, wilder Caelid, high Altus, fiery Gelmir, mountainous Norrae, and prosperous Azul.
 
 # Era of the Greattree
 
@@ -8,15 +8,21 @@ The Crucible, the source of all life, begot a world tree, the Greattree.
 
 This was a time where Dragons and Giants ruled supreme the Lands Between.
 
-The Dragons were wise, immortal beings, protected by their impervious Gravelstone scales, ruled by Lord Placidusax, who governed the southern Lands Between from his home in Farum Azula in the Caelid Wilds. Farum Azula was a haven to the Dragons and home to their beastman servants, and had towers stretching high into the sky.
+The Dragons were wise, immortal beings, protected by their impervious Gravelstone scales, ruled by Lord Placidusax, who governed from the city of Farum Azula. It was a haven to the Dragons and home to their beastman servants, with towers stretching high into the sky. The jewel of the kingdom of Azul.
 
-The Giants were clever, hardy beings, protected by their Fell God, wielding the Flame of Ruin. They were ruled by a line of priests from the very highest mountains in the north of the Lands Between. The mountains was a haven to the giants and home to their servants, the tribes of Zamor, and had great fortifications spanning valleys and peaks.
+The Giants were clever, hardy beings, protected by their Fell God and mastery of flame. They were ruled by a line of priests from the very highest mountains in Norrae. The mountains was a haven to the giants and home to their servants, the tribes of Zamor, and had great fortifications spanning valleys and peaks.
 
 Knowing each other's might, the Dragons and Giants were at relative peace, with belligerence settled in duels and show battles, rather than the all-out wars both peoples knew would be utterly destructive.
 
-In the midlands, there were tribes and nobles who swore allegiance to one or the other, but of note in the lands of Liurnia arose a people who mastered astrology and the magic of the cosmos. By this power they were able to repel Giant and Dragon both, and were left to their own devices. They formed the Carian dynasty that persists to this day. 
+In the midlands between, there were tribes and nobles who swore allegiance to one or the other and did battle as mortals do.
 
-In this era also, the Greater Will started sending its messengers, the Two Fingers, to the Lands Between. Finger readers arose to interpret their wiggles.
+Of note, arose a people who mastered astrology and the magic of the cosmos. By this power they were able to repel the Giant menace, and were left to their own devices. They were known as the Nightmen and later one of their clans formed the Carian dynasty that persists to this day in Liurnia. They are said to have built grand cities and loved the night sky dearly.
+
+Equal in mastery was a people who claimed power over the winds and the earth, speaking to the spirits within both. With such strength they kept at bay the Dragons. They were known as the Belurati and a clan of them would form the line of Storm Lords that is known of in legends.
+
+They warred in skirmishes over generations, but never became more than honorable opponents at stalemate.
+
+In this era also, the Greater Will started sending its messengers, the Two Fingers, to the Lands Between. A line of humble shamanesses arose to interpret the twitching language of these messengers, and were granted immotality in recompense.
 
 # Era of the Erdtree
 
@@ -28,27 +34,37 @@ The Elden Beast was created to travel the cosmos and create order, not to govern
 
 ## The Age of Iron
 
-The Two Fingers selected several Empyreans, who battled for the Elden Ring. Of them, two reached prominence:
+The Empyreans battled for the Elden Ring so fiercely that the midlands were ravaged for an age. The giants and dragons retreated from their interests there, and yet among their servants arose those who left for the midlands, either to join the wars or as Empyreans themselves.
 
-Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation.
+The Two Fingers did care not for heritage nor standing in selecting their quarries.
 
-Marika, the Fair-Haired Queen, uniter of the Badlands Tribes, wielding stone and storm.
+Among them was Marika, the Fair-Haired Queen. She held no special power but acumen and cleverness, though it is rumored she courted darker powers and outer gods when convenient, and always was she seen in the company of her firstborn son and her Shadow, the Azulan wolfman Maliketh. She united of the barbarian tribes by strength, beauty, and charisma, forming a fine fighting force. But she knew it would not be sufficient to obtain victory.
 
-In the end, Marika obtained the Elden Ring and established her rule as Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
+She courted then the king of the Belurati, who in turn taught her war band the power over earth and wind. As thanks she slew him in his sleep. In a night of terrible slaughter the city of Belurat was razed and its peoples driven from the land. By Marika's ruthless stratagems, the terrible cruelty of her firstborn, and the fury of her Shadow, she now held a fighting force with scarcely any 
 
-Therefore, Marika removed the Rune of Death from the Elden Ring, at once neutering Harita's flame and introducing the cycle of rebirth to the Lands Between. The Rune of Death, she turned into a blade, and gave it to her Shadow.
+Now at the head of an army wielding terrible power, Marika set her eyes on the only other Empyrean who stood to oppose her.
+
+Harita, the Gloam-Eyed Queen, leader of the cult of Godslayers, wielding the red-black flame of annihilation. Little is known of her to this day, save that her Shadow was a great serpent. Her followers wore the living skins of enemies slain. And many had they slain. She had sunk cities under the earth and slain dragons and drakes. Her mere name inspired fear.
+
+While Marika had played politics and dismantled a kingdom, Harita had hunted every other Empyrean down and put them to the needles of her grisly tailors.
+
+That would be her downfall. Had there been a third player in the conflict, had she spared the Carian Knight-Errant Lerrana and bolstered her forces instead, she might have prevailed, for Marika's terrible attention might then have been divided.
+
+Delving into dark powers, Marika sacrificed her own flesh and blood to the terrible fire of her ambition: she did unspeakable things to her son, fashioning him into a twisted mirror of the Gloam-Eyed Queen, endowing him with twin curses of a dread flame and a hungry serpent of his own.
+
+The barbarians were more numerous than the skin-clad cultists, her Shadow more than a dull beast, and her son a foil to Harita's might. Hammer in hand, Marika sent the Godslayers two third to into the grave and one third fleeing for their lives.
+
+Thus, she obtained the Elden Ring and established her rule as indisputable Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
+
+Therefore, Marika removed the Rune of Death from the Elden Ring, at once neutering Harita's flame and introducing the cycle of rebirth to the Lands Between, and rendering the Erdtree untouchable. The Rune of Death, she turned into a blade, and gave it to her Shadow.
 
 She used this protection to wage one final persecution of the Godslayer cult, capturing Harita and putting her to the Black Blade, burning her up with her own red-black flame.
 
-Marika, now completely unopposed, called the new state of the world the Golden Order.
-
-### Open Questions
-
-- When are the Eternal Cities buried?
+Marika, now completely unopposed, called the new state of the world the Golden Order. Her son was never seen again.
 
 ## The Age of Gold
 
-Marika wed Hoarah Loux, and to mirror her Shadow he took the spirit lion Serosh on his back to control his bloodlust and became Godfrey the first Elden Lord. They founded the city of Leyndell around their manor at the foot of the Erdtree.
+Marika wed the most powerful chieftain of he war band, Hoarah Loux, and to mirror her Shadow he took the spirit lion Serosh on his back to control his bloodlust and became Godfrey the first Elden Lord. They founded the city of Leyndell around their manor at the foot of the Erdtree, and she let him command the war bands that had once been under her rule directly.
 
 By his seed, Marika bore the Omen Twins but was revolted that the Crucible had touched her own offspring. She kept their birth secret and sent them into the tunnels under Leyndell, and decreed that all Omen children be shunned.
 
@@ -58,7 +74,7 @@ Marika then bore Godwyn and he grew up to be a true heir. From him began the Gol
 
 But he would also venture to the shunning grounds under the city to find his brother, and show him the love he had been denied. This was Godwyn's gift that set him apart from either of his parentage: his kindness.
 
-With a dynasty now established, Marika turned her gaze outwards, looking for threats to The Golden Order. The Giants of the mountains to the north had mastery over fire that could unmake the Erdtree --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
+With a dynasty now established, Marika turned her gaze outwards, looking for threats to The Golden Order. The Giants of the mountains to the north had mastery over fire enough to set the Erdtree ablaze should they wish it --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
 
 The Giants were eradicated to a man, but Godwyn spared the last of their kind. It was a hollow mercy and he knew it.
 
@@ -66,21 +82,15 @@ The Golden Order was then attacked by the Dragons, who saw the removal of the Ru
 
 Godfrey slew the king of dragons, Gransax, but Godwyn was determined to do better this time and made peace with the dragons by sparing prince Fortissax. In the ensuing years, by the teachings of Fortissax, he founded the orders of Dragon Cultists, bolstering The Golden Order's might tenfold.
 
+But there were those Dragons who bore misgivings of this alliance, and an accord is thought to have been struct. Faruma Azula vanished from the world, leaving behind only the Dragons who found the Order agreeable.
+
 Having now eliminated existential threats, Marika turned her eyes on conquest. The lands of Altus were prosperous, but neighboring Liurnia grew wary of the threat posed by her rule.
 
-Marika mustered her armies: the forces of Altus and Gelmir, the war priests of the Golden order and the Dragon Cultists, and Godfrey's war band, and marched on Liurnia.
+Marika mustered her armies: the forces of Altus and Gelmir, the war priests of the Golden order and the Dragon Cultists, and Godfrey's war band, and marched on Liurnia. Here they were repelled again and again by the brilliance of Liurnia's strategoi, the Carian orders of spellknights, and supremely well-organized armies backed by sorcerers.
 
-Here they were repelled again and again by the brilliance of Liurnia's strategoi, the Carian orders of spellknights, and supremely well-organized armies backed by sorcerers.
+Among Marika's forces was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one. In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible.
 
-Among Marika's forces was Radagon the Red, a strong warrior who rose to the rank of general over the years of the war, eventually leading the Golden Order into the largest battle that would prove the final one.
-
-In the field, he faced the Queen Rennala of Caria, and fell in love. He ordered a retreat, and sent message to Leyndell that peace might be possible.
-
-Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was quite a happy union.)
-
-### Open Questions
-
-- When is Farum Azula cast out of time?
+Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was a happy union.)
 
 ## The Age of Silver
 
