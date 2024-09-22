@@ -32,7 +32,7 @@ Then the Elden Beast fell dormant, turning into the Elden Ring, which prescripti
 
 The Elden Beast was created to travel the cosmos and create order, not to govern the order once created. The various Two Fingers therefore started appointing Empyreans, to take up the Elden Ring and govern the Lands Between, enforcing the Greater Will's wishes in the new world.
 
-## The Age of Iron
+## The Age of Iron and Pewter
 
 The Empyreans battled for the Elden Ring so fiercely that the midlands were ravaged for an age. The giants and dragons retreated from their interests there, and yet among their servants arose those who left for the midlands, either to join the wars or as Empyreans themselves.
 
@@ -54,15 +54,17 @@ Delving into dark powers, Marika sacrificed her own flesh and blood to the terri
 
 The barbarians were more numerous than the skin-clad cultists, her Shadow more than a dull beast, and her son a foil to Harita's might. Hammer in hand, Marika sent the Godslayers two third to into the grave and one third fleeing for their lives.
 
-Thus, she obtained the Elden Ring and established her rule as indisputable Queen of the Lands Between. However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame.
+Thus, she obtained the Elden Ring and established her rule as indisputable Queen of the Lands Between and in doing so she passed from the realm of mortality into the realm of divinity. The woman who became a goddess, the goddess who became a woman.
 
-Therefore, Marika removed the Rune of Death from the Elden Ring, at once neutering Harita's flame and introducing the cycle of rebirth to the Lands Between, and rendering the Erdtree untouchable. The Rune of Death, she turned into a blade, and gave it to her Shadow.
+However, as Harita was merely defeated, not dead, she still posed a threat with her red-black flame. In spite she might harm the Erdtree, so Marika feared.
+
+Therefore, Marika removed the Rune of Death from the Elden Ring, at once neutering Harita's flame and introducing the cycle of rebirth to the Lands Between, and rendering the Erdtree all but untouchable. The Rune of Death, she turned into a blade, and gave it to her Shadow.
 
 She used this protection to wage one final persecution of the Godslayer cult, capturing Harita and putting her to the Black Blade, burning her up with her own red-black flame.
 
 Marika, now completely unopposed, called the new state of the world the Golden Order. Her son was never seen again.
 
-## The Age of Gold
+## The Age of Red Gold
 
 Marika wed the most powerful chieftain of he war band, Hoarah Loux, and to mirror her Shadow he took the spirit lion Serosh on his back to control his bloodlust and became Godfrey the first Elden Lord. They founded the city of Leyndell around their manor at the foot of the Erdtree, and she let him command the war bands that had once been under her rule directly.
 
@@ -92,21 +94,25 @@ Among Marika's forces was Radagon the Red, a strong warrior who rose to the rank
 
 Marika aquiesced and Radagon was raised to the title of Prince of Gelmir and sued for peace. Rennala accepted his proposal of marriage (and subsequently fell in love with him, it was a happy union.)
 
-## The Age of Silver
+## The Age of Fine Silver
 
 With Liurnia a part of the Golden Order, there now came a period of lasting peace. Marika now had time to devote to theological studies, and in this age delved deep into the mysteries of the Elden Ring.
 
-Absent a war, Godfrey grew restless, so Marika sent him onwards south of Liurnia to conquer the lands there, drawing all of the Lands Between together under the Golden Order.
+Absent a war, Godfrey grew restless, so Marika sent him onwards south of Liurnia and Caelid to conquer the lands there, drawing all of the Lands Between together under the Golden Order.
 
-She let Godwyn take over rulership. He took a concubine and sired an heir, remaining unwed at his mother's wish, should one day a political marriage be needed. 
+She let Godwyn take over rulership. He took a concubine and sired an heir named Godefroy, whom Marika declared rightful rather than bastard. Godwyn remained unwed at his mother's wish, should one day a political marriage be needed, and it is said he also enjoyed the company of Fortissax when the dragon took human form.
 
-In Liurnia, Rennala bore Radagon three children: Rykard, Radahn, and Ranni.
+In Liurnia, Rennala bore Radagon three children: Rykard, Radahn, and Ranni. All three Carian heirs were prodigies of sorcery and found powerful teachers.
 
-All three Carian children were prodigies of sorcery and found powerful teachers. Radahn took after his father and became a General in the Golden Order, Ranni took after her mother and became the Princess of Caria. Rykard skirted blasphemy and revived the study of fire, founding the Fire Monks.
+Radahn found a teacher in a wandering perigrine sage of Onyx and quickly mastered the sorcery of gravity. He took after his father and became a General in the Golden Order.
 
-To Marika's horror, Ranni had been chosen as an Empyrean and given as Shadow the beast child Blaidd.
+Rykard skirted blasphemy and revived the study of fire, through science inventing sorcerous ways to achieve feats of terrible heat. He took interest in the miracles of fire practiced in secret and gave amnesty and protection to the Fire Monks, in exchange for servitude.
 
-But the girl was young and not yet a threat, and Marika intended to keep her that way. The Carians derived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring. <!-- TODO -->
+Ranni took after her mother and became the Princess of Caria and a formidable sorceress in tutelage of the finest masters at Raya Lucaria. She came to be known as the Lunar Princess, taking upon her the sigil of the dark moon as her mother had taken the full.
+
+Much to Marika's horror, word reached her from Radagon that the girl had been chosen as an Empyrean and given as Shadow the beast child Blaidd, to mirror her own Maliketh.
+
+But Ranny was young and yet nary a threat, and Marika intended to keep her that way. The Carians derived their power from the stars and the fates they encoded --- a system beyond the reach of the Elden Ring. Where in the Age of Iron they had been summarily dealt with by Marika's enemies, now she herself had to intervene.
 
 Before she could formulate a plan to do so, her husband returned. Godfrey was drunk on victory, and eager to take back his rightful place as Elden Lord. His warriors brought with them an unrest to the heartland that Marika found particularly displeasing: these myriad warriors were nothing but. There was no world in which they would return to Altus and find wives and husbands, settling down to till the good earth.
 
@@ -122,43 +128,45 @@ Unbeknownst to everyone, they were but the masculine and feminine aspect of the 
 
 Radagon, wracked with guilt over his infidelity, divorced Rennala, and the peace with Liurnia was broken, but so was its Queen.
 
-Radagon married Marika, becoming the Second Elden Lord.
+Radagon married Marika, becoming the Second Elden Lord, Godwyn offering his new stepfather the throne.
 
 To honor her new husband, Marika raised his eldest son Rykard to Prince of Gelmir, where his mastery of fire suited well the volcanoes. He became a praetor of the inquisition, and declared blasphemous all the fire worshipping cults save his own, offering each a choice between converting to his doctrine or being thrown in the fires of Gelmir.
 
-Radahn also followed his father. He had grown all-surpassingly powerful, a rival to Godwyn in sheer strength. The two grew close as brothers, and Marika adopted him as her own son.
+Radahn's loyalties were undividedly with the Golden Order. He had grown all-surpassingly powerful, a rival to Godwyn in sheer strength. The two grew close as brothers, and Marika adopted him as her own son.
 
 Ranni remained. With her mother's heart broken, she took over rulership of Liurnia, but the Golden Order was by then so powerful that going to war would be suicide. She bore a grudge against her father and his new wife and refused Marika's overtures and offers of friendship and true peace, content to remain at a formal truce.
 
-And here Marika now saw her opportunity to sabotage Ranni and commanded her adoptive son Radahn to use his mastery of Gravitational magic to halt the Firmament.
+And here Marika now saw her opportunity to sabotage Ranni and commanded her adoptive son Radahn to use his mastery of gravitational magic to halt the very Firmament.
 
 This cemented Ranni's resentment of her into a sworn enmity. Even Godwyn's good will and genuine desire to mend friendships did not sway he hatred. A hatred which came to include not only her father, Queen Marika, and her brothers, but also the Two Fingers, and the Greater Will they served.
 
 The only part of her family she still loved was her mother dearest, her Shadow, and her father's pet red wolf.
 
-## The Age of Pewter
+## The Age of Unalloyd Gold
 
 Marika bore Radagon twins, but because of the incestuous nature of the union and Marika's numerous crimes and imbalances, their children were born vulnerable by the caprices of fate and the balance of the Elden Ring.
 
-By the absence of the Rune of Famine, Miquella was cursed with eternal childhood, to never grow to be a proud king like his eldest brother.
+By the absence of the Rune of Famine, Miquella was cursed with eternal childhood, to never grow to be a proud king like his elder brother Godwyn.
 
-By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste away and spread horrific deformity wherever she went. (The Greater Will might have allowed this to happen.)
+By the absence of the Rune of Pestilence, Malenia was cursed with the Scarlet Rot, to waste awa and yet regrow continuously, and spread horrific deformity and true ailment to those who touched her --- all save her brother, who was miraculously immune.
 
-Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did not, and took it upon himself to hold his new family together best as he could, seeing to his children's needs and disabilities, and gifting Marika another child to bear. He ceded the title of Elden Lord to his stepson to this end.
+Seeing her offspring once more be afflicted twins, Marika despaired. Radagon did not, and took it upon himself to hold his new family together best as he could, seeing to his children's needs and disabilities, and gifting Marika another child to bear. He ceded the title of Elden Lord back to his stepson to this end.
 
-Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness. 
+Godwyn, too, loved his two youngest siblings dearly. He inspired and encouraged Miquella's endeavors to spread kindness, and saw to it that Malenia be waited on by an order of knights willing to incur the disease she bore. He even found a blind swordsman to teach her the blade, as she was herself blinded by the growths in her eyes.
 
-The Two Fingers chose Miquella and Malenia to be Empyreans --- though who was the Shadow of whom was unclear.
+This state of peace did not last.
 
-The third child Marika bore fared no better. By the absence of the Rune of Death, Melina was the reincarnation of her old enemy, the Gloam-Eyed Queen.
+Now the Two Fingers chose Miquella to be Empyrean --- and with his own sister as Shadow.
+
+And if that was not horror enough, the third child Marika bore Radagon fared no better. By the absence of the Rune of Death, Melina was the reincarnation of her old enemy, the Gloam-Eyed Queen.
 
 Marika now faced three threats to her power from within her own family. She grew fearful and kept the girl's existence and nature fiercely secret. The return of Harita's soul re-awakened her Shadow, Eiglay, the God Devouring Serpent, under the Gelmir mountains. Rykard kept it secret and placated, studying its power.
 
-Meanwhile Miquella rose to prominence and power through his selfless and kind nature, inspiring the same fanatic loyalty in his followers as had Godwyn's honor. The boy sought out the most disenfranchised peoples in all the Lands Between, showing mercy upon them and seeing to their wounds and needs. The Omen touched by the crucible, the Misbegotten whose bloodlines were of it, the hillfolk, the albinauric lineages created with sorcery, it was rumored he even loved the Nox banished underground.
+Meanwhile Miquella rose to prominence and power through his selfless and compassionate nature, inspiring soon the same fanatic loyalty in his followers as had Godwyn's honor and kindness. The boy sought out the most disenfranchised peoples in all the Lands Between, showing mercy upon them and seeing to their wounds and needs. The Omen touched by the crucible, the Misbegotten whose bloodlines were of it, the hillfolk, the albinauric lineages created with sorcery, it was rumored he even loved the people cast underground in ages past.
 
-His sister, Malenia, he helped still the Rot inside her by inventing Unalloyed Gold, a metal form of his grace and mercy, which could ward off influence from without. Malenia took up the sword in her brother's defense and became the most formidable swordsmistress in the world.
+His sister and Shadow,  he helped still the Rot inside her by inventing Unalloyed Gold, a metal form of his grace and mercy, which could ward off influence from without. Thus bolstered Malenia took up the sword in her brother's defense and at once became the most formidable swordsmistress in the world.
 
-Then Miquella took a sapling of the Erdtree and planted his own tree, the Haligtree. He watered it with his own blood and it grew almost as great as the Erdtree. It was beyond belief.
+Then Miquella took a sapling of the Erdtree and planted his own tree in a secret land and it was called the Haligtree. He watered it with his own blood and it grew almost as great as the Erdtree. It was beyond belief.
 
 Twice now, had the Greater Will's messengers chosen successors to Marika rule. First Ranni, then Miquella. While she had thwarted Ranni's rise to power, she saw herself powerless to move against her second golden son. She began harboring doubts as to whether her actions had been in accordance with her master's wishes.
 
@@ -176,31 +184,46 @@ She had recruited Marika's own countrymen, Numen warriors, into a guild of assas
 
 In one terrible night, they infiltrated Leyndell and the house of Godwyn. It was Praetor Rykard who let them in the door, and stood guard, should Maliketh return. Godwyn was put to the blade, becoming the first of the demigods to die.
 
-But Ranni was clever in the ways of the Primeval Current and the Moon, and mastered soul magic. She had split destined death among the black blades so the assassins held only the half that destroys the soul. She kept the blade that kills the body.
+But Ranni was clever in the ways of the Primeval Current and the Moon, and mastered the matter of the soul. She had split destined death among the black blades so the assassins held only the half that destroys the soul. She kept the blade that kills the body.
 
-While Godwyn's flesh had the cursemark of death carved into him, and his soul was forever lost, Ranni carved the counterpart into her own flesh to rid her being of the influence of the Greater Will which she so resented. Her soul found refuge in a doll she had crafted in the image of her recently diseased teacher in the arts of sorcery. Her reasons to do so are mysterious to this day --- perhaps sentiment, perhaps homage, perhaps Ranni and her teacher were lovers.
+While Godwyn's flesh had the cursemark of death carved into him, and his soul was forever lost, Ranni carved the counterpart into her own flesh to rid her being of the influence of the Greater Will which she so resented. Her soul found refuge in a doll she had crafted in the image of her recently diseased teacher in the arts of sorcery. Her reasons to do so are mysterious to this day --- perhaps sentiment, perhaps homage, perhaps a gesture love.
 
-During the escape from Leyndell, the Black Knife Assasins took many losses, in particular the daughter of the leader, Tische, sacrificed herself to save her mother.
+During the escape from Leyndell, Maliketh fell upon them and the traitorous Rykard did naught to hold him off now that the work was done. The Black Knife Assasins took many losses, in particular the daughter of the ringleader, Tische, sacrificed herself to save her mother.
 
 The mantle of rulership returned to Radagon.
 
-## The Shattering
+## The Ringbreak
 
-The loss of her most-treasured son plunged Marika into despair.
+The loss of her most-treasured son plunged Marika into despair. She knew then at once in her heart of hearts that her interpretation of the Greater Will had been lacking, and that the Golden Order was anathema --- whether she was right in this judgment is debated.
 
-She knew then that her interpretation of the Greater Will had been lacking, and that the Golden Order was anathema --- whether she was right in this judgment is debated.
-
-Marika also knew that what she did next would cause the world to fall into disarray, so her penultimate act of aberrance was to pluck the Rune of War from the Elden Ring, and secrete it away somewhere safe.
+Marika also knew that what she did next would cause the world to fall into disarray, so her penultimate act of aberrance was to pluck the Rune of War from the Elden Ring, and secret it away somewhere safe.
 
 Then she took up her hammer and shattered the Elden Ring entire.
 
 Radagon grew fiercely angry with her. With her claim to Queendom now broken, by his authority as Elden Lord, he banished her from the capital, and labored tirelessly to repair the Elden Ring --- to no avail. The Great Runes had been scattered across the land, and without their structure there was nothing to hold together the small runes. For seven days and nights, he toiled with his hammer at an anvil of gold.
 
-But no amount of soldiers and mortal lawmen can keep a God truly away. Marika retreated to her and her former husband's manor, plotting and planning. Then on the eighth day she returned and entered the Erdtree.
+But no amount of soldiers and mortal lawmen can keep a God truly away. Marika retreated to her manor, plotting and planning. Then on the eighth day she returned and entered the Erdtree.
 
 Facing Radagon, her husband and other half, her doubts, her mortality, her counterpart in every way, she hesitated. And for that, Radagon plunged his crimson spear through her breast. In return she reunited with him, the two becoming a single being, once more.
 
 And she bode the Erdtree to swallow her.
 
-## The Shattering War
+## The Shattering
+
+The Great Runes fell upon the lands between, and despite Marika's precaution of hiding away the Rune of War, the land descended into caos as had never been seen since the Empyreans vyed for the Elden Ring in ages past.
+
+None was spared the risk of coming upon a shard of the Ring and dooming themselves to misery and strife. Some came into in the hands of commoners and left entire settlements in flames as the good folk of the land fell upon one another with knife and hoe and ax.
+
+Those already strong in the ways of battle fared better. It was soon that all of Marika's line had each obtained for themselves a great rune, oft taking from the less fortunate and paying with steel.
+
+Radahn gathered his Redmane knights in Caelid and began his march upon the battlefield. He met Godefroy in the field and the King of Limgrave was slain along with three of his four sons. The craven Godrick escaped with his father's bounty and laid siege to Stormveil for a season. When the city proved unassailable, Radahn marched onwards into Liurnia.
+
+He brokered a peace with his sister to gain passage through his homeland, though the pass of Dectus to finally enter Altus. Here he swept aside Rykard's token resistance forces and advanced directly to the heart of the Golden Order, the royal city of Leyndell.
+
+Here the Redmanes met their match in the Leyndell forces, and as Radahn rode into battle wielding his greatbow to take down the Leyndell captainry and lead his men to victory against a disorganized enemy, he was struck down by his eldest living brother, Morgott.
+
+Dressed not in armor but in rags, and wielding naught but a cane of iron wood and a blades of holy light.
+
+
+
 
