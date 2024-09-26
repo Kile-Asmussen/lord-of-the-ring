@@ -68,13 +68,13 @@ Marika, now completely unopposed, called the new state of the world the Golden O
 
 Marika wed the most powerful chieftain of he war band, Hoarah Loux, and to mirror her Shadow he took the spirit lion Serosh on his back to control his bloodlust and became Godfrey the first Elden Lord. They founded the city of Leyndell around their manor at the foot of the Erdtree, and she let him command the war bands that had once been under her rule directly.
 
-By his seed, Marika bore the Omen Twins but was revolted that the Crucible had touched her own offspring. She kept their birth secret and sent them into the tunnels under Leyndell, and decreed that all Omen children be shunned.
+By his seed, Marika bore the Omen Twins but was revolted that the Crucible had touched her own offspring. She kept their birth secret and sent them into the tunnels under Leyndell, and decreed that all Omen children be shunned and sent below ground.
 
 Morgott desired his mother's love despite it all and grew to understand her decision. He took it upon himself to earn it in any way he could, and remained her servant in the dark. Mogh spurned it and delved deeper underground, not to be seen again for a long time.
 
 Marika then bore Godwyn and he grew up to be a true heir. From him began the Golden Lineage, a dynasty that was to last a thousand years. He was as great a warrior as his father, and as wise and blessed as his mother.
 
-But he would also venture to the shunning grounds under the city to find his brother, and show him the love he had been denied. This was Godwyn's gift that set him apart from either of his parentage: his kindness.
+But he would also venture to the shunning grounds under the city to find his brother, and show him the love he had been denied. This was Godwyn's gift that set him apart from either of his parentage: his kindness and honor.
 
 With a dynasty now established, Marika turned her gaze outwards, looking for threats to The Golden Order. The Giants of the mountains to the north had mastery over fire enough to set the Erdtree ablaze should they wish it --- Marika removed the Famine rune to let her armies march on in the unkind homelands of the Giants.
 
